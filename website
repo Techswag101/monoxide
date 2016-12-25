@@ -1,0 +1,101 @@
+
+    <!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+             
+    
+        <meta charset="utf-8"/>
+<title>MONOXIDE MUSIC | Listen to EDM</title>
+<meta name="fb_admins_meta_tag" content=""/>
+<meta name="description" content="We're an EDM production duo. Check us out!"/>
+<link rel="shortcut icon" href="https://static.wixstatic.com/media/046e6e_554c541ca6a246aaae25c4ca549dd4bf~mv2.png/v1/fill/w_91,h_90,al_c,usm_0.66_1.00_0.01/046e6e_554c541ca6a246aaae25c4ca549dd4bf~mv2.png" type="image/x-icon"/>
+<link rel="apple-touch-icon" href="https://static.wixstatic.com/media/046e6e_554c541ca6a246aaae25c4ca549dd4bf~mv2.png/v1/fill/w_91,h_90,al_c,usm_0.66_1.00_0.01/046e6e_554c541ca6a246aaae25c4ca549dd4bf~mv2.png" type="image/x-icon"/>
+    <meta http-equiv="X-Wix-Renderer-Server" content="app-jvm14c.42.wixprod.net"/>
+<meta http-equiv="X-Wix-Meta-Site-Id" content="61bf884b-589f-4c71-8f94-1c0597809e39"/>
+<meta http-equiv="X-Wix-Application-Instance-Id" content="eb05a48f-3f1c-4598-996e-c8f305254d01"/>
+<meta http-equiv="X-Wix-Published-Version" content="22"/>
+
+<meta http-equiv="etag" content="27b44373300e3442405031f4ff627394"/>
+<meta property="og:title" content="MONOXIDE MUSIC | Listen to EDM"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://monoxidemusic.org>
+<meta property="og:site_name" content="MONOXIDE MUSIC | Listen to EDM"/>
+<meta property="og:description" content="We're an EDM production duo. Check us out!"/>
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
+
+<meta id="wixMobileViewport" name="viewport" content="minimum-scale=0.25, maximum-scale=1.2"/>
+
+
+        
+
+    
+    <script>
+    // BEAT MESSAGE
+    try {
+        window.wixBiSession = {
+            initialTimestamp : Date.now(),
+            viewerSessionId: 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c)
+                    { var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8); return v.toString(16); }
+            )
+        };
+        (new Image()).src = 'http://frog.wix.com/bt?src=29&evid=3&pn=1&et=1&v=1.1994.11&msid=61bf884b-589f-4c71-8f94-1c0597809e39&vsi=' + wixBiSession.viewerSessionId +
+                '&url=' + encodeURIComponent(location.href.replace(/^http(s)?:\/\/(www\.)?/, '')) +
+                '&isp=0&st=2&ts=0&c=' + wixBiSession.initialTimestamp;
+    } catch (e){}
+    // BEAT MESSAGE END
+</script>
+
+    
+
+    <!-- META DATA -->
+<script type="text/javascript">
+
+    var serviceTopology = {"serverName":"app-jvm14c.42.wixprod.net","cacheKillerVersion":"1","staticServerUrl":"http://static.parastorage.com/","usersScriptsRoot":"http://static.parastorage.com/services/wix-users/2.651.0","biServerUrl":"http://frog.wix.com/","userServerUrl":"http://users.wix.com/","billingServerUrl":"http://premium.wix.com/","mediaRootUrl":"http://static.wixstatic.com/","logServerUrl":"http://frog.wix.com/plebs","monitoringServerUrl":"http://TODO/","usersClientApiUrl":"https://users.wix.com/wix-users","publicStaticBaseUri":"http://static.parastorage.com/services/wix-public/1.222.0","basePublicUrl":"http://www.wix.com/","postLoginUrl":"http://www.wix.com/my-account","postSignUpUrl":"http://www.wix.com/new/account","baseDomain":"wix.com","staticMediaUrl":"https://static.wixstatic.com/media","staticAudioUrl":"https://media.wix.com/mp3","emailServer":"http://assets.wix.com/common-services/notification/invoke","blobUrl":"https://static.parastorage.com/wix_blob","htmlEditorUrl":"http://editor.wix.com/html","siteMembersUrl":"https://users.wix.com/wix-sm","scriptsLocationMap":{"wixapps":"https://static.parastorage.com/services/wixapps/2.486.0","tpa":"https://static.parastorage.com/services/tpa/2.1062.0","santa-resources":"https://static.parastorage.com/services/santa-resources/1.2.0","wix-code-sdk":"https://static.parastorage.com/services/js-wixcode-sdk/1.57.0","bootstrap":"https://static.parastorage.com/services/bootstrap/2.1229.62","ck-editor":"https://static.parastorage.com/services/ck-editor/1.87.3","it":"https://static.parastorage.com/services/experiments/it/1.37.0","santa":"https://static.parastorage.com/services/santa/1.1994.11","dbsm-editor-app":"https://static.parastorage.com/services/dbsm-editor-app/1.136.0","skins":"https://static.parastorage.com/services/skins/2.1229.62","core":"https://static.parastorage.com/services/core/2.1229.62","sitemembers":"https://static.parastorage.com/services/sm-js-sdk/1.31.0","automation":"https://static.parastorage.com/services/automation/1.23.0","web":"https://static.parastorage.com/services/web/2.1229.62","dbsm-viewer-app":"https://static.parastorage.com/services/dbsm-viewer-app/1.43.0","ecommerce":"https://static.parastorage.com/services/ecommerce/1.203.0","hotfixes":"https://static.parastorage.com/services/experiments/hotfixes/1.15.0","langs":"https://static.parastorage.com/services/langs/2.568.0","santa-versions":"https://static.parastorage.com/services/santa-versions/1.419.0","ut":"https://static.parastorage.com/services/experiments/ut/1.2.0"},"developerMode":false,"productionMode":true,"staticServerFallbackUrl":"https://sslstatic.wix.com/","staticVideoUrl":"http://video.wixstatic.com/","cloudStorageUrl":"https://static.wixstatic.com/","scriptsDomainUrl":"https://static.parastorage.com/","userFilesUrl":"http://static.parastorage.com/","staticHTMLComponentUrl":"http://monoxidemusic-wixsite-com.usrfiles.com/","secured":false,"ecommerceCheckoutUrl":"https://www.safer-checkout.com/","premiumServerUrl":"https://premium.wix.com/","appRepoUrl":"http://assets.wix.com/wix-lists-ds-webapp","digitalGoodsServerUrl":"http://dgs.wixapps.net/","wixCloudBaseDomain":"wix-code.com","mailServiceSuffix":"/_api/common-services/notification/invoke","staticVideoHeadRequestUrl":"http://storage.googleapis.com/video.wixstatic.com","protectedPageResolverUrl":"https://site-pages.wix.com/_api/wix-public-html-info-webapp/resolve_protected_page_urls","mediaUploadServerUrl":"https://files.wix.com/","staticDocsUrl":"http://media.wix.com/ugd","publicStaticsUrl":"http://static.parastorage.com/services/wix-public/1.222.0"};
+    var santaModels = true;
+    var rendererModel = {"metaSiteId":"61bf884b-589f-4c71-8f94-1c0597809e39","siteInfo":{"documentType":"UGC","applicationType":"HtmlWeb","siteId":"eb05a48f-3f1c-4598-996e-c8f305254d01","siteTitleSEO":"MONOXIDE MUSIC | Listen to EDM"},"clientSpecMap":{"13":{"type":"sitemembers","applicationId":13,"collectionType":"ApplyForMembership","collectionFormFace":"Register","smcollectionId":"d79bd886-e87d-40c6-95b0-fe5ed67150b5"},"2":{"type":"appbuilder","applicationId":2,"appDefinitionId":"3d590cbc-4907-4cc4-b0b1-ddf2c5edf297","instanceId":"1490079b-cec6-1c16-bc52-1da80cd53679","state":"Initialized"},"3":{"type":"public","applicationId":3,"appDefinitionId":"1308d225-ac16-0e63-a980-3528ad7a2e80","appDefinitionName":"Rabbit SEO","instance":"tnhjYKzecTGO1zrCr5Dlhvv_pJZMEU18mr3J1i-Zcjc.eyJpbnN0YW5jZUlkIjoiZDg2YzdhNGYtMGRiNi00NmE3LTg5NzctZWQ2YTFkYjcxNTEzIiwic2lnbkRhdGUiOiIyMDE2LTEyLTI1VDIxOjQwOjA1Ljg2NFoiLCJ1aWQiOm51bGwsImlwQW5kUG9ydCI6IjY4LjIyNC41NS4yNDAvNTc4ODUiLCJ2ZW5kb3JQcm9kdWN0SWQiOm51bGwsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiZTI2ZjRlNjgtMjBjZS00ZTM5LTgzODgtY2VhOGVjYTBjNzYyIiwic2l0ZU93bmVySWQiOiIwNDZlNmUyOS0zNThkLTQ5MmEtOWFhYi02NTQzOTVmMzhlMjcifQ","sectionPublished":true,"sectionMobilePublished":false,"sectionSeoEnabled":true,"widgets":{},"appRequirements":{"requireSiteMembers":false},"isWixTPA":false,"installedAtDashboard":true,"permissions":{"revoked":false}},"1830":{"type":"public","applicationId":1830,"appDefinitionId":"13d21c63-b5ec-5912-8397-c3a5ddb27a97","appDefinitionName":"Wix Bookings","instance":"XAFt1RXl_Kjk-590i9-3dtfM_4ODMy3_c1UOaTSA7PE.eyJpbnN0YW5jZUlkIjoiZjJkZTU2ODItNDk0ZS00NTljLWE2NTgtNjg0ZmQ2NGFhODJmIiwic2lnbkRhdGUiOiIyMDE2LTEyLTI1VDIxOjQwOjA1Ljg2M1oiLCJ1aWQiOm51bGwsImlwQW5kUG9ydCI6IjY4LjIyNC41NS4yNDAvNTc4ODUiLCJ2ZW5kb3JQcm9kdWN0SWQiOm51bGwsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiZjhmZjU0YTgtN2Q4Yi00MzNlLTk0MWMtODA3NzUwOTFiNjAzIiwiYmlUb2tlbiI6IjkzNjFkZWM5LTExZDEtMDllZC0yOWNjLTc0NGE0MWNhMzYxNiIsInNpdGVPd25lcklkIjoiMDQ2ZTZlMjktMzU4ZC00OTJhLTlhYWItNjU0Mzk1ZjM4ZTI3In0","sectionUrl":"https:\/\/scheduler.wix.com\/index","sectionMobileUrl":"https:\/\/scheduler.wix.com\/mobile","sectionPublished":true,"sectionMobilePublished":true,"sectionSeoEnabled":true,"sectionDefaultPage":"","sectionRefreshOnWidthChange":true,"widgets":{"13d27016-697f-b82f-7512-8e20854c09f6":{"widgetUrl":"https:\/\/scheduler.wix.com\/index","widgetId":"13d27016-697f-b82f-7512-8e20854c09f6","refreshOnWidthChange":true,"mobileUrl":"https:\/\/scheduler.wix.com\/mobile","appPage":{"id":"scheduler","name":"Book Online","defaultPage":"","hidden":false,"multiInstanceEnabled":false,"order":1,"indexable":true,"fullPageMobile":false,"hideFromMenu":false},"published":true,"mobilePublished":true,"seoEnabled":true,"preFetch":false},"14756c3d-f10a-45fc-4df1-808f22aabe80":{"widgetUrl":"https:\/\/scheduler.wix.com\/widget-viewer","widgetId":"14756c3d-f10a-45fc-4df1-808f22aabe80","refreshOnWidthChange":true,"mobileUrl":"https:\/\/scheduler.wix.com\/widget-viewer","published":true,"mobilePublished":false,"seoEnabled":true,"preFetch":false}},"appRequirements":{"requireSiteMembers":false},"isWixTPA":true,"installedAtDashboard":false,"permissions":{"revoked":true}},"3224":{"type":"public","applicationId":3224,"appDefinitionId":"12d5833e-f061-7cc8-5122-e1d404f6c8ae","appDefinitionName":"Google AdSense","instance":"aThFhQijDDMLfPL6RqHcEuhqrqhTXBLrLW0SJMPiuSc.eyJpbnN0YW5jZUlkIjoiNmQ2MjI1MzYtODU3Ni00ZGZjLWFhMTYtZmE0ZWY4ODZiYmFhIiwic2lnbkRhdGUiOiIyMDE2LTEyLTI1VDIxOjQwOjA1Ljg2NFoiLCJ1aWQiOm51bGwsImlwQW5kUG9ydCI6IjY4LjIyNC41NS4yNDAvNTc4ODUiLCJ2ZW5kb3JQcm9kdWN0SWQiOm51bGwsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiNDAxMWYwYjItYjU2ZC00NmFlLWE4YWMtZGZkMGQ4OTdlNzI0IiwiYmlUb2tlbiI6IjBjZGRhZDdkLWRkZTktMDE4ZC0yNTgyLWU2NGI2ZjA2MjU5MyIsInNpdGVPd25lcklkIjoiMDQ2ZTZlMjktMzU4ZC00OTJhLTlhYWItNjU0Mzk1ZjM4ZTI3In0","appWorkerUrl":"https:\/\/adsense.apps.wix.com\/worker","sectionPublished":true,"sectionMobilePublished":false,"sectionSeoEnabled":true,"widgets":{"12d58350-abc8-568f-db5c-bd1c19a2a71a":{"widgetUrl":"https:\/\/adsense.apps.wix.com\/view","widgetId":"12d58350-abc8-568f-db5c-bd1c19a2a71a","refreshOnWidthChange":true,"mobileUrl":"https:\/\/adsense.apps.wix.com\/view","published":true,"mobilePublished":true,"seoEnabled":true,"preFetch":false}},"appRequirements":{"requireSiteMembers":false},"isWixTPA":true,"installedAtDashboard":false,"permissions":{"revoked":false}},"3860":{"type":"public","applicationId":3860,"appDefinitionId":"13bb5d67-1add-e770-a71f-001277e17c57","appDefinitionName":"Wix Music","instance":"nqA7czBFAMqcIDsUmJ-0aEG1EqBNLHUlagdSjlSeCdU.eyJpbnN0YW5jZUlkIjoiOGZmYjg5ZmItNjU4ZC00YzE0LWJlYTAtODgzNjMzYWYwZWU0Iiwic2lnbkRhdGUiOiIyMDE2LTEyLTI1VDIxOjQwOjA1Ljg2NFoiLCJ1aWQiOm51bGwsImlwQW5kUG9ydCI6IjY4LjIyNC41NS4yNDAvNTc4ODUiLCJ2ZW5kb3JQcm9kdWN0SWQiOm51bGwsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiNTBlZDI2OTgtNWU4My00YzVkLTg2NjktZDVhMThiZGM5MDc3IiwiYmlUb2tlbiI6ImVlNDQwMWIwLTNkMTItMDA2NS0zMTM0LTk0MzNhNDJmOTBkZCIsInNpdGVPd25lcklkIjoiMDQ2ZTZlMjktMzU4ZC00OTJhLTlhYWItNjU0Mzk1ZjM4ZTI3In0","sectionPublished":true,"sectionMobilePublished":false,"sectionSeoEnabled":true,"widgets":{"13bb5dc2-a098-5a74-502b-6bac84e80b23":{"widgetUrl":"https:\/\/static.parastorage.com\/services\/wix-music\/1.162.0\/widget.html","widgetId":"13bb5dc2-a098-5a74-502b-6bac84e80b23","refreshOnWidthChange":true,"mobileUrl":"https:\/\/static.parastorage.com\/services\/wix-music\/1.162.0\/widget.html","published":true,"mobilePublished":true,"seoEnabled":true,"preFetch":false}},"appRequirements":{"requireSiteMembers":false},"isWixTPA":true,"installedAtDashboard":true,"permissions":{"revoked":false}},"2600":{"type":"public","applicationId":2600,"appDefinitionId":"12ea226d-bb69-636a-7d50-ca4cfc005d32","appDefinitionName":"MyTshirt","instance":"tV5ymdL4q3fpPVRPpkfIotnjtgYZhyo1C1tWruf4HZc.eyJpbnN0YW5jZUlkIjoiODcyNDEzMDktMjcyZC00NTA2LWE5ZjMtOGE0NDVjNzk3ZjY1Iiwic2lnbkRhdGUiOiIyMDE2LTEyLTI1VDIxOjQwOjA1Ljg2M1oiLCJ1aWQiOm51bGwsImlwQW5kUG9ydCI6IjY4LjIyNC41NS4yNDAvNTc4ODUiLCJ2ZW5kb3JQcm9kdWN0SWQiOm51bGwsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiOTQ2ODI2M2ItNjhjNi00ZTg1LWJmODItZGE4YmNlYTkwMjUxIiwic2l0ZU93bmVySWQiOiIwNDZlNmUyOS0zNThkLTQ5MmEtOWFhYi02NTQzOTVmMzhlMjcifQ","sectionPublished":true,"sectionMobilePublished":false,"sectionSeoEnabled":true,"widgets":{"12ea22a9-9c41-488a-fe51-e122080889c6":{"widgetUrl":"https:\/\/mytshirt-benbaler.rhcloud.com\/index.php\/widget","widgetId":"12ea22a9-9c41-488a-fe51-e122080889c6","refreshOnWidthChange":true,"mobileUrl":"https:\/\/mytshirt-benbaler.rhcloud.com\/index.php\/widget","published":true,"mobilePublished":true,"seoEnabled":true,"preFetch":false}},"appRequirements":{"requireSiteMembers":false},"isWixTPA":false,"installedAtDashboard":false,"permissions":{"revoked":true}}},"premiumFeatures":[],"geo":"USA","languageCode":"en","previewMode":false,"userId":"046e6e29-358d-492a-9aab-654395f38e27","siteMetaData":{"preloader":{"enabled":false},"adaptiveMobileOn":true,"quickActions":{"socialLinks":[],"colorScheme":"dark","configuration":{"quickActionsMenuEnabled":false,"navigationMenuEnabled":true,"phoneEnabled":false,"emailEnabled":false,"addressEnabled":false,"socialLinksEnabled":false}},"contactInfo":{"companyName":"","phone":"","fax":"","email":"","address":""}},"runningExperiments":{"sv_blogRealPagination":"new","viewerGeneratedAnchors":"new","appMarketCache":"new","sv_popups":"new","sv_hoverBox":"new","blogItemProp":"new","wixappsPerformanceMeasuring":"new","sv_blogMobileFeed":"new","clickToAction_email":"new","connectionsData":"new","sv_mergeAggregator":"new","noDynamicModelOnFirstLoad":"new","sv_expandModeBi":"new","sv_reportPerformance":"new","clickToAction_url":"new","sv_cssDesignData":"new","openRemoveJsonAnchors":"new","sv_webpJPGSupport":"new","fontsTrackingInViewer":"new","tpaHideFromMenu":"new","sv_blogSocialCounters":"new","loadMasterPageFirst":"new","sv_addJsonldToHeadForSEO":"new","sv_boxSlideShow":"new","clickToAction_phone":"new","updateOgTags":"new","blogQueryProjection":"new","sv_googleMapsDesigns":"new","sv_stripMigrationViewer":"new","retryOnConcurrencyError":"new","deepLinking":"new","sv_faviconFromServer":"new","sv_obMigrationFlow":"new","sv_fontsRefactor":"new","specs.users.NewLoginVelocityTemplateFT":"true","pageListNewFormat":"new","sv_blogAuthorAsALink":"new","se_ignoreBottomBottomAnchors":"new","sv_passwordPages":"new","fontScaling":"new","sv_buttonUsesFlex":"new","operationsQAllAsync":"new","sv_shouldComponentUpdate_for_blog":"new","remove_mobile_props_and_design_if_really_deleted":"new","sv_stripToColumnMigration":"new","newLoginScreens":"new","sv_blogOldUrlShareFix":"new","sv_addBorderToElementBounds":"new","sv_blogNotifySocialCounters":"new","newSiteMembersEndPoint":"new","sv_blogLikeCounters":"new","sv_blogNewSocialShareButtonsInTemplates":"new","sv_ignoreBottomBottomAnchors":"new","sv_allowStripToColumnMigration":"new","sv_NewFacebookConversionPixel":"new","removeJsonAnchors":"new","sv_tpaPerformanceBi":"new","wixCodeBinding":"new","mobileAppBannerOnMobile":"old","sv_alwaysEnableMobileZoom":"new","sv_updatePageOgTags":"new","contactFormActivity":"old"},"urlFormatModel":{"format":"slash","forbiddenPageUriSEOs":["app","apps","_api","robots.txt","sitemap.xml","feed.xml","sites"],"pageIdToResolvedUriSEO":{}},"passwordProtectedPages":["c1gjy"],"useSandboxInHTMLComp":true,"siteMediaToken":"eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcHA6MzQ2NjQ5MDcwMDI5NzIwNiIsInN1YiI6InVzZXI6MDQ2ZTZlMjktMzU4ZC00OTJhLTlhYWItNjU0Mzk1ZjM4ZTI3IiwiYXVkIjoidXJuOnNlcnZpY2U6ZmlsZS51cGxvYWQiLCJleHAiOjE0ODMzMDY4MDUsImlhdCI6MTQ4MjcwMjAwNSwianRpIjoibXotcjhvUnlOUG5LV190am5aaW4wUSJ9.ULd9FCRQdKTJNHJ58Gdj13uYUgyDI1F3IORrCbgl664","pagesPlatformApplications":{}};
+    var publicModel = {"domain":"wixsite.com","externalBaseUrl":"http:\/\/monoxidemusic.wixsite.com\/monoxide","unicodeExternalBaseUrl":"http:\/\/monoxidemusic.wixsite.com\/monoxide","pageList":{"pages":[{"pageId":"c1dmp","title":"HOME","pageUriSEO":"home","pageJsonFileName":"046e6e_734ddd5f6b0a3c2fdb8e1b00693ace44_21.json"},{"pageId":"c1gjy","title":"UPDATES","pageUriSEO":"updates"},{"pageId":"slfa4","title":"MUSIC","pageUriSEO":"music","pageJsonFileName":"046e6e_57f07249a33673ba2053e2b07fb5dfe9_21.json"}],"mainPageId":"c1dmp","masterPageJsonFileName":"046e6e_7bd43e886341626a9332ffdcbf829a7a_21.json","topology":[{"baseUrl":"https:\/\/static.wixstatic.com\/","parts":"sites\/{filename}.z?v=3"},{"baseUrl":"https:\/\/staticorigin.wixstatic.com\/","parts":"sites\/{filename}.z?v=3"},{"baseUrl":"https:\/\/fallback.wix.com\/","parts":"wix-html-editor-pages-webapp\/page\/{filename}"}]},"timeSincePublish":121476893,"favicon":"","deviceInfo":{"deviceType":"Desktop","browserType":"Chrome","browserVersion":55},"siteRevision":22,"sessionInfo":{"hs":-1335777196,"svSession":"07b7155398f5a922c71f8b4d479683efc6cd6d133d29ab0b786f70a27ad8b478256bd34f92f23fff6241e9469d6e74411e60994d53964e647acf431e4f798bcd880e7103038afa7fe11725eee17537144a014d90041ae584a98640c4a33c8b5d","ctToken":"NC1BQ1Vnb29FbFREaXpLcmNFZkkzS3NIT0Y1X3I5T0tCQWlsYkNUcXUtZ3x7InVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMzsgV09XNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS81NS4wLjI4ODMuODcgU2FmYXJpLzUzNy4zNiIsInZhbGlkVGhyb3VnaCI6MTQ4MzMwNjgwNTg2M30","isAnonymous":false},"metaSiteFlags":[],"indexable":true};
+
+
+    var googleAnalytics = "UA-2117194-61"
+    ;
+
+    var googleRemarketing = "";
+    var facebookRemarketing = "";
+    var yandexMetrika = "";
+
+</script>
+
+
+
+            <meta name="fragment" content="!"/>
+    
+    <!-- DATA -->
+<script type="text/javascript">
+    var adData = {"topLabel":"<span class=\"smallMusa\">(Wix-Logo) </span>Create a <span class=\"smallLogo\">Wix</span> site!","topContent":"100s of templates<br />No coding needed<br /><span class=\"emphasis spacer\">Start now >></span>","footerLabel":"<div class=\"adFootBox\"><div class=\"siteBanner\" ><div class=\"siteBanner\"><div class=\"wrapper\"><div class=\"bigMusa\">(Wix Logo)</div><div class=\"txt shd\" style=\"color:#fff\">This site was created using </div> <div class=\"txt shd\"><a  href=\"http://www.wix.com?utm_campaign=vir_wixad_live&experiment_id=abtestbanner122400001\" style=\"color:#fff\"> WIX.com. </a></div> <div class=\"txt shd\" style=\"color:#fff\"> Create your own for FREE <span class=\"emphasis\"> >></span></div></div></div></div></div>","adUrl":"http://www.wix.com/lpviral/enviral?utm_campaign=vir_wixad_live&experiment_id=abtestbanner122400001"};
+    var mobileAdData = {"footerLabel":"7c3dbd_67131d7bd570478689be752141d4e28a.jpg","adUrl":"http://www.wix.com?utm_campaign=vir_wixad_live&experiment_id=abtestbanner122400001"};
+    var usersDomain = "https://users.wix.com/wix-users";
+        </script>
+            <script type="text/javascript">
+    var santaBase = 'https://static.parastorage.com/services/santa/1.1994.11';
+        var clientSideRender = true;
+    </script>
+<script src="https://static.parastorage.com/services/third-party/requirejs/2.1.15/require.min.js"></script>
+<script src="https://static.parastorage.com/services/santa/1.1994.11/app/main-r.min.js"></script>
+<link rel="stylesheet" href="https://static.parastorage.com/services/santa/1.1994.11/static/css/viewer.css">
+
+</head>
+<body>
+        <div id="SITE_CONTAINER"></div>
+
+    
+    
+    
+
+    
+    
+    
+    
+
+    </body>
+</html>
